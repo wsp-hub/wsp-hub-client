@@ -11,7 +11,7 @@ const App = () => {
     return (
         <ThemeProvider theme={themeWSP}>
             <CssBaseline/>
-            <BrowserRouter>
+            <BrowserRouter basename={process.env.REACT_APP_BASENAME}>
                 <div className="App">
                     <Switch>
                         <Route path="/" exact>
