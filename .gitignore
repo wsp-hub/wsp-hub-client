@@ -536,6 +536,9 @@ csx/
 ecf/
 rcf/
 
+build
+/build
+
 # Windows Store app package directories and files
 AppPackages/
 BundleArtifacts/
