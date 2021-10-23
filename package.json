@@ -2,7 +2,7 @@
   "name": "wsp-hub",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://wsp-hub.github.io/wsp-hub-client/",
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
